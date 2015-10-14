@@ -1,0 +1,14 @@
+table {
+ border-top:5px;
+ border-bottom:5px;
+ border-left:5px;
+ border-right:5px;
+
+}
+
+td {
+  padding-top:5px;
+  padding-left:100px;
+  padding-right:100px;
+  font-family:monospace;
+}
